@@ -1,5 +1,6 @@
 public class GitCommit{
     public static void main(String args[]){
-        System.out.println("git commit ");
+        System.out.println("Hostfix ");
+
     }
 }
